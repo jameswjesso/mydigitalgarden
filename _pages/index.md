@@ -33,10 +33,15 @@ Forgive me.
 
 
 <h2>All Notes </h2>
-(in alphabetical order)
 
-<style> /* CSS style for the note links */ ul li a { color: purple; } </style> <h2>Research Notes (in alphabetical order)</h2> {% assign sorted_notes = site.notes | sort: "title" %} <ul> {% for note in sorted_notes %} {% if note.path contains "/_notes/Research Notes/" %} <li><a href="{{ note.url }}">{{ note.title }}</a></li> {% endif %} {% endfor %} </ul>
+{% assign sorted_notes = site.notes | sort: "title" %} <ul> {% for note in sorted_notes %} {% if note.path contains "/_notes/Research Notes/" %} <li><a href="{{ note.url }}">{{ note.title }}</a></li> {% endif %} {% endfor %} </ul>
 
+
+<h2>Tags</h2>
+Due to this being a partial export of my larger obsidian vault, some tags might have no links
+
+{% assign sorted_notes = site.notes | sort: "title" %}
+<ul> {% for note in sorted_notes %} {% if note.path contains "/_notes/Tags/" %} <li><a href="{{ note.url }}">{{ note.title }}</a></li> {% endif %} {% endfor %} </ul>
 
 <h2> Graph View </h2>
 <strong> Here are all the notes in this garden visualized as a graph<strong>
