@@ -10,16 +10,14 @@ permalink: /
 My name is James W. Jesso. (Check out my about page here)
 Here is a repository of the notes I have taken on various videos, books, and research papers.
 
+<h4> Some important points prior to exploring</h4>
 <ul>
 <li>Titles are listed as citekeys.
 <li>Subheading describe the general note I am taking.
-<li>Content under each subheading is my own, 
-<li> unless it is in blockquote style, which means it is from the author of the book/paper/video I am taking notes on. 
-<li> It is a partial export of my personal obsidian vault, meaning that some of the formatting will not be amazing, some links will try and open applications (e.g. my reference manager), and some linked notes will not go anywhere.... But the content is there, nonetheless.
-<li><strong>An important comment:</strong> these notes are taken for my own learning and understanding.
-<li><li>As such, there is a possibility that what I have written won't make sense to you.
-<li>Additionally, most of these were not written with the public eye in mind. There is likely to be grammar and spelling issues. 
-
+<li>Content under each subheading is my own, unless it is in blockquote style, which means it is from the author of the book/paper/video I am taking notes on. 
+<li>This is a partial export of my personal obsidian vault, meaning that some of the formatting will not be amazing, some links will try and open applications (e.g. my reference manager), and some linked notes will not go anywhere.
+<li>These notes are taken for my own learning and understanding. As such, there is a possibility that what I have written won't make sense to you.
+<li>Most of these were not written with the public eye in mind. There is likely to be grammar and spelling issues. 
 </ul>
 
 
