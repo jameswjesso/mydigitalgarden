@@ -9,20 +9,22 @@ permalink: /
 
 My name is James W. Jesso. (Check out my about page here)
 Here is a repository of the notes I have taken on various videos, books, and research papers.
-It is a partial export of my personal obsidian vault, meaning that some of the formatting will not be amazing. But the content is there, nonetheless.
 
 <ul>
 <li>Titles are listed as citekeys.
 <li>Subheading describe the general note I am taking.
-<li>Content under each subheading is my own, unless it is in blockquote style, which means it is from the author of the book/paper/video I am taking notes on. 
+<li>Content under each subheading is my own, 
+<li> unless it is in blockquote style, which means it is from the author of the book/paper/video I am taking notes on. 
+<li> It is a partial export of my personal obsidian vault, meaning that some of the formatting will not be amazing, some links will try and open applications (e.g. my reference manager), and some linked notes will not go anywhere.... But the content is there, nonetheless.
+<li><strong>An important comment:</strong> these notes are taken for my own learning and understanding.
+<li><li>As such, there is a possibility that what I have written won't make sense to you.
+<li>Additionally, most of these were not written with the public eye in mind. There is likely to be grammar and spelling issues. 
+
 </ul>
 
-<strong>An important comment:</strong> these notes are taken for my own learning and understanding.
-As such, there is a possibility that what I have written won't make sense to you.
-Additionally, most of these were not written with the public eye in mind. There is likely to be grammar and spelling issues. 
-Forgive me. 
 
-****
+
+
 
 <h2>Recently updated notes</h2>
 
@@ -40,25 +42,14 @@ Forgive me.
 
 {% assign sorted_notes = site.notes | sort: "title" %} <ul> {% for note in sorted_notes %} {% if note.path contains "/Research Notes/" %} <li><a href="{{ note.url }}">{{ note.title }}</a></li> {% endif %} {% endfor %} </ul>
 
-
-<h2>Tags</h2>
+<h2> TAGS</h2>
 Due to this being a partial export of my larger obsidian vault, some tags might have no links
 
 {% assign sorted_notes = site.notes | sort: "title" %}
 <ul> {% for note in sorted_notes %} {% if note.path contains "/Tags/" %} <li><a href="{{ note.url }}">{{ note.title }}</a></li> {% endif %} {% endfor %} </ul>
 
 <h2> Graph View </h2>
-<strong> Here are all the notes in this garden visualized as a graph<strong>
+Here are all the notes in this garden visualized as a graph
 
 {% include notes_graph.html %}
 
-.....
-
-<h2> Also, pssst...</h2>
-
-This site is just for $8+ patrons.
-So if you are not a patron, please keep the link to this site private.
-
-If you are not a patron, how are you here? hmm.... well, I ask you to leave in respect to the fact that this page is not meant for you. If, however, you choose to disregard this ask, at least make sure you don't share the link anywhere else! 
-
-Thank you 🙏
