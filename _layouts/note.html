@@ -1,39 +1,47 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta http-equiv="Content-Style-Type" content="text/css">
-  <title></title>
-  <meta name="Generator" content="Cocoa HTML Writer">
-  <meta name="CocoaVersion" content="2299.6">
-  <style type="text/css">
-    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.8px Times; -webkit-text-stroke: #000000}
-    p.p6 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.8px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
-    p.p7 {margin: 0.0px 0.0px 0.0px 0.0px; font: 9.7px Times; -webkit-text-stroke: #000000}
-    p.p8 {margin: 0.0px 0.0px 9.7px 0.0px; font: 9.7px Times; -webkit-text-stroke: #000000}
-    p.p9 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000; min-height: 14.0px}
-    p.p10 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000}
-    span.s1 {font-kerning: none}
-    span.s2 {text-decoration: underline ; font-kerning: none}
-  </style>
-</head>
-<body>
-<p class="p1"><span class="s1">--- layout: default ---</span></p>
-<h1 style="margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; -webkit-text-stroke: #000000"><span class="s1"><b>{{ page.title }}</b></span></h1>
-<p class="p1"><span class="s1">{% if page.type != 'pages' %} Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }} {% endif %}</span></p>
-<p class="p1"><span class="s1">{{ content }}</span></p>
-<p class="p3"><span class="s1"></span><br></p>
-<h3 style="margin: 0.0px 0.0px 12.6px 0.0px; font: 12.6px Times; -webkit-text-stroke: #000000"><span class="s1"><b>Notes mentioning this note</b></span></h3>
-<p class="p5"><span class="s1">{% if page.backlinks.size &gt; 0 %} {% for backlink in page.backlinks %}</span></p>
-<p class="p6"><span class="s2"><a href="file:///Users/jameswjesso/Documents/GitHub/mydigitalgarden/_layouts/%7B%7B%20site.baseurl%20%7D%7D%7B%7B%20backlink.url%20%7D%7D%7B%25-%20if%20site.use_html_extension%20-%25%7D.html%7B%25-%20endif%20-%25%7D">{{ backlink.title }}</a></span></p>
-<p class="p7"><span class="s1">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</span></p>
-<p class="p5"><span class="s1">{% endfor %} {% else %}</span></p>
-<p class="p8"><span class="s1">There are no notes linking to this note.</span></p>
-<p class="p5"><span class="s1">{% endif %}</span></p>
-<p class="p9"><span class="s1"></span><br></p>
-<p class="p10"><span class="s1">Here are all the notes in this garden, along with their links, visualized as a graph.</span></p>
-<p class="p1"><span class="s1">{% include notes_graph.html %}</span></p>
-</body>
-</html>
+---
+layout: default
+---
+
+<article>
+  <div>
+    <h1>{{ page.title }}</h1>
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
+      Last updated on {{ page.last_modified_at | date: "%B %-d, %Y" }}
+      {% endif %}
+    </time>
+  </div>
+
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+      <p>This line appears after every note.</p>
+    </content>
+
+    <side style="font-size: 0.9em">
+      <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
+      {% if page.backlinks.size > 0 %}
+      <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
+      {% for backlink in page.backlinks %}
+        <div class="backlink-box">
+        <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
+        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
+        </div>
+      {% endfor %}
+      </div>
+      {% else %}
+
+      <div style="font-size: 0.9em">
+        <p>
+          There are no notes linking to this note.
+        </p>
+      </div>
+      {% endif %}
+    </side>
+  </div>
+</article>
+
+<hr>
+
+<p>Here are all the notes in this garden, along with their links, visualized as a graph.</p>
+
+{% include notes_graph.html %}
