@@ -14,7 +14,7 @@ layout: default
   <div id="notes-entry-container">
     <content>
       {{ content }}
-      <p>This line appears after every note.</p>
+      <p>Thanks.</p>
     </content>
 
     <side style="font-size: 0.9em">
@@ -24,7 +24,6 @@ layout: default
       {% for backlink in page.backlinks %}
         <div class="backlink-box">
         <a class="internal-link" href="{{ site.baseurl }}{{ backlink.url }}{%- if site.use_html_extension -%}.html{%- endif -%}">{{ backlink.title }}</a><br>
-        <div style="font-size: 0.9em">{{ backlink.excerpt | strip_html | truncatewords: 20 }}</div>
         </div>
       {% endfor %}
       </div>
