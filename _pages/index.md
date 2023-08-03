@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome to my notes! 🌱
 
-My name is James W. Jesso. (Check out my about page here)
+Hey Patrons!
 Here is a repository of the notes I have taken on various videos, books, and research papers.
 
 <h4> Some important points prior to exploring</h4>
