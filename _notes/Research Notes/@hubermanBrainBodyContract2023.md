@@ -3,12 +3,12 @@ Authors: Andrew Huberman
 Year: 2023
 ****
 **Source Type**: #📚
-**Tags**: [[boredom]] -- [[stress]]  -- [[nervous system]] -- [[sleep]] -- [[NSDR]]  -- [[learning]] -- [[neuroplasticity]] -- [[positive neuroplasticity]]  -- [[creativity]] -- [[meditation]] -- [[time]]
+**Tags**: [[boredom]] -- [[stress]]  -- [[nervous system]] -- [[sleep]] -- [[NSDR]]  -- [[learning]] -- [[neuroplasticity]] -- [[positive neuroplasticity]]  -- [[creativity]] -- [[meditation]] -- [[time]] -- [[Andrew Huberman]] 
 ...
 Type: Presentation
 Zotero: [Access file](zotero://select/items/@hubermanBrainBodyContract2013)
 DOI/Link:  - 
-CiteKey: hubermanBrainBodyContract2013 
+CiteKey: hubermanBrainBodyContract2023 
 *****
 
 ## Personal Summary
@@ -25,7 +25,7 @@ CiteKey: hubermanBrainBodyContract2013
 
 As long as you can sleep, you can stress as much as you like
 
-That the long-term damage of stress on the body and mind is negliable if you are able to sleep well.
+That the long-term damage of stress on the body and mind is negligable if you are able to sleep well. 
 
 ##### Stress mobilizes resources
 
@@ -109,9 +109,9 @@ This relates to [[@zomorodiBoredBrilliantHow2017]]
 This was a presenter practice.  
 He asked the crowd to give him a body part, and he would share something he found fascinating about that body part.
 
-##### Body titled relative to gravity while accelerating feels good
+##### Body tilted relative to gravity while accelerating feels good
 
-He mentioned that there is s flush of satisfaction and rewards molecule when one is titled relative to gravity while accelerating. This is something mediated by the inner ear.
+He mentioned that there is s flush of satisfaction and rewards molecule when one is tilted relative to gravity while accelerating. This is something mediated by the inner ear.
 
 This is insightful given my love of [[rollerblading]]
 
