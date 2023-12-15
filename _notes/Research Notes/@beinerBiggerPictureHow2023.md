@@ -1,7 +1,7 @@
 title: **The Bigger Picture: how psychedelics can help us make sense of the world**
 ****
-**Source Type**: #reference 
-**Tags**: [[DMT]] [[psychedelics]] [[sensemaking]] [[animism]] [[psychedelic therapy]] [[Moloch]] [[Identity politics]] [[capitalism]]  [[meaning]] [[meaning crisis]] [[internet]] [[community practices]] [[conversation]] [[corporations]]  [[emotions]] [[john vervaeke]] [[cognition]] [[intelligence]] [[uncanny valley]] [[multi-polar traps]] [[conspirituality]] [[unseen worlds-others]] [[Spirits]] [[breach]] 
+**Source Type**: #📚 
+**Tags**: [[DMT]]  -- [[extended-state DMT]] --  [[psychedelics]]  -- [[sensemaking]]  -- [[animism]]  -- [[psychedelic therapy]]  -- [[Moloch]]  -- [[Identity politics]]  -- [[capitalism]]   -- [[meaning]] --  [[meaning crisis]] --  [[internet]]  -- [[community practices]]  -- [[conversation]]  -- [[corporations]]   -- [[emotions]]  -- [[john vervaeke]]  -- [[cognition]] --  [[intelligence]] -- [[uncanny valley]]  -- [[multi-polar traps]] --  [[conspirituality]]  -- [[unseen worlds-others]]  -- [[Spirits]]  -- [[breach]]  -- [[relevance realization]]
 ...
 Authors: ALEXANDER BEINER
 Year: 2023
