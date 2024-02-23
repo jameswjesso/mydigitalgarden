@@ -30,7 +30,7 @@ Zotero: [Access file](zotero://select/items/@cherianMagnesiumIbogaineTherapy)
 >[!...]
 > This paper outlined research on the potentials of ibogaine (co-administered with IV magnesium for cardio protection) to treat long-standing TBI issues in veterans, including mental health and cognitive deficits. The results were substantially positive, and this shows the potential of this treatment (and perhaps ibogaine itself) to be an effective and directly treatment for TBI. 
 > 
-> The research was done at an established ibogaine clinic in Mexico (a centre called Ambio). 
+> The research was done at an established ibogaine clinic in Mexico (a centre called Ambio run by Trevor Millar and Jonathan Dickinson). 
 >
 
 ***

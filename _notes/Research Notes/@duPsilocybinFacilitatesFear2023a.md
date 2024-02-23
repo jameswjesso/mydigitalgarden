@@ -16,7 +16,7 @@ Zotero: [Access file](zotero://select/items/@duPsilocybinFacilitatesFear2023a)
 >[!Tip] Citation
 > Du, Y., Li, Y., Zhao, X., Yao, Y., Wang, B., Zhang, L., & Wang, G. (2023). Psilocybin facilitates fear extinction in mice by promoting hippocampal neuroplasticity. _Chinese Medical Journal_, _136_(24), 2983–2992. [https://doi.org/10.1097/CM9.0000000000002647](https://doi.org/10.1097/CM9.0000000000002647)
 
-**Topics**: [[psilocybin]] -- [[neurotrophic factors]] -- [[PTSD]] -- [[neuroplasticity]] -- [[brain physiology]] -- [[hippocampus]]
+**Topics**: [[psilocybin]] -- [[neurotrophic factors]] -- [[PTSD]] -- [[neuroplasticity]] -- [[brain physiology]] -- [[hippocampus]] -- [[psychedelic healing]]
 
 *****
 
@@ -42,7 +42,7 @@ Zotero: [Access file](zotero://select/items/@duPsilocybinFacilitatesFear2023a)
 >
 >Given their observations of the fear extinction support, and the effects of BDNF and mTOR and neuroplasticity in the hippocampus, the authors propose that these pathways are an important part of psilocybin's effects. 
 >
->This they propose psilocybin as apossible for PTSD treatment
+>This they propose psilocybin as a possible for PTSD treatment
 
 
 ***
