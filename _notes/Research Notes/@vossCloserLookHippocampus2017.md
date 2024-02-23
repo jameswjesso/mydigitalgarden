@@ -11,7 +11,7 @@ Authors: Voss, J. L., Bridge, D. J., Cohen, N. J., & Walker, J. A.
 Year: 2017
 Zotero: [Access file](zotero://select/items/@vossCloserLookHippocampus2017)
 
->[!Tip] Citation
+>[!Tip] Citation:
 > Voss, J. L., Bridge, D. J., Cohen, N. J., & Walker, J. A. (2017). A closer look at the hippocampus and memory. _Trends in Cognitive Sciences_, _21_(8), 577–588. [https://doi.org/10.1016/j.tics.2017.05.008](https://doi.org/10.1016/j.tics.2017.05.008)
 
 **Topics**: [[neurology]] -- [[memory]] -- [[visual perception]] -- [[TBI-Concussion]] -- [[hippocampus]] -- [[neurobiology]] -- [[perception]] -- [[Exploration-Wandering]] -- [[learning]] -- [[representation]] -- [[Neuro-ophthalmology]] -- [[psychedelic neuro]]
