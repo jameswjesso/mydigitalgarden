@@ -21,9 +21,11 @@ Zotero: [Access file](zotero://select/items/@gaglianoThusSpokePlant2018)
 
 ****
 >[!Abstract]
->The eighteenth-century naturalist Erasmus Darwin (grandfather of Charles) argued that plants are animate, living beings and attributed them sensation, movement, and a certain degree of mental activity, emphasizing the continuity between humankind and plant existence. Two centuries later, the understanding of plants as active and communicative organisms has reemerged in such diverse fields as plant neurobiology, philosophical posthumanism, and ecocriticism. The Language of Plants brings together groundbreaking essays from across the disciplines to foster a dialogue between the biological sciences and the humanities and to reconsider our relation to the vegetal world in new ethical and political terms.
->
->Viewing plants as sophisticated information-processing organisms with complex communication strategies (they can sense and respond to environmental cues and play an active role in their own survival and reproduction through chemical languages) radically transforms our notion of plants as unresponsive beings, ready to be instrumentally appropriated. By providing multifaceted understandings of plants, informed by the latest developments in evolutionary ecology, the philosophy of biology, and ecocritical theory, The Language of Plants promotes the freedom of imagination necessary for a new ecological awareness and more sustainable interactions with diverse life forms.
+>In this “phytobiography”—a collection of stories written in partnership with a plant—research scientist Monica Gagliano shares genuine first-hand accounts from her research into plant communication and cognition.
+>  
+>By transcending the view of plants as the objects of scientific materialism, Gagliano encourages us to rethink plants as people—beings with subjectivity, consciousness, and volition, and hence having the capacity for their own perspectives and voices. The book draws on up-close-and-personal encounters with the plants themselves, as well as plant shamans, indigenous elders, and mystics from around the world and integrates these experiences with an incredible research journey and the groundbreaking scientific discoveries that emerged from it.  
+> 
+>Gagliano has published numerous peer-reviewed scientific papers on how plants have a Pavlov-like response to stimuli and can learn, remember, and communicate to neighboring plants. She has pioneered the brand-new research field of plant bioacoustics, for the first time experimentally demonstrating that plants emit their own 'voices' and, moreover, detect and respond to the sounds of their environments. By demonstrating experimentally that learning is not the exclusive province of animals, Gagliano has re-ignited the discourse on plant subjectivity and ethical and legal standing. This is the story of how she made those discoveries and how the plants helped her along the way.
 
 *****
 
